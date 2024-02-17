@@ -1,0 +1,18 @@
+# Color Codes with '&'  and A-Z, 0-9
+main-menu-name: "Ban and Kick menu"
+player-lore: "Click to select option!"
+namespaced-key: "banGUInum"
+close-button-name: "Close"
+confirm-menu-name: "Confirm menu"
+cancel-button-name: "Cancel"
+choice-menu-name: "Choice menu"
+accept-button-name:  "Accept"
+ban-button-name: "Ban"
+kick-button-name: "Kick"
+return-button-name: "Return"
+kick-message: "kick message"
+ban-message: "ban message"
+successfully-kicked-message: "Successfully kicked player"
+successfully-banned-message: "Successfully banned player"
+skull-ban-lore: "Do you wanna ban"   # + Player name
+skull-kick-lore: "Do you wanna kick" # + Player name

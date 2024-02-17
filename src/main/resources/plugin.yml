@@ -1,0 +1,19 @@
+name: BanKickGUI
+version: '${project.version}'
+main: ximronno.bankickgui.BanKickGUI
+api-version: '1.19'
+authors: [Ximronno]
+description: GUI  to easily ban or kick players
+website: https://github.com/Ximronno/BanKickGUI
+commands:
+  bangui:
+    description: Opens a GUI to easily ban or kick players
+    usage: /<command>
+    permission: bangui.use
+    aliases:
+      - bg
+      - kickgui
+      - kg
+permissions:
+  bangui.use:
+    default: op
